@@ -1,4 +1,6 @@
-#PyBank_Challenge
+# Python Challenge 
+
+## PyBank_Challenge
 
 In this challenge, we analyzed the Financial Dataset (found in the Resources folder) composed of two columns: "Date" and "Profit/Losses", to retrieve the following information:
 
@@ -14,7 +16,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 --------------------------
 
-#PyPoll_Challenge
+## PyPoll_Challenge
 
 In this challenge, we analyzed poll data called election_data.csv (found in the Resources folder), composed of three columns: "Voter ID", "County", and "Candidate". The dataset was analyzed to retrive the following information:
 
